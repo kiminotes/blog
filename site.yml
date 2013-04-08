@@ -1,0 +1,16 @@
+title : kiminotes
+tagline: Blog Tagline
+author :
+  name : kimi Lv
+  email : kiminotes.lv@gmail.com
+  github : kiminotes
+  twitter : kiminotes
+  feedburner : feedname
+
+navigation :
+  - archive.html
+  - tags.html
+  - categories.html
+  - pages.html
+  - about.md
+  
